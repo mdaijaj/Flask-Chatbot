@@ -1,0 +1,132 @@
+{
+    "business": [
+        {
+            "Date": "2019/07/17",
+            "Discription": "Economic Times",
+            "News_URL": "http://economictimes.indiatimes.com",
+            "Title": "Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "80 million connections under Ujjwala in 100 days",
+            "News_URL": "https://economictimes.indiatimes.com/news/politics-and-nation/next-transformative-idea-80-million-connections-under-ujjwala-in-100-days/articleshow/70251563.cms",
+            "Title": "Next transformative idea, 80 million connections under Ujjwala in 100 days - The Economic Times"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "The proposal that may hit H-1B spouses hard",
+            "News_URL": "https://economictimes.indiatimes.com/nri/visa-and-immigration/economic-independence-of-h-1b-spouses-will-be-dented-if-their-right-to-work-is-revoked/articleshow/70251541.cms",
+            "Title": "'Economic independence of H-1B spouses will be dented if their right to work is revoked' - The Economic Times"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "Won\u2019t ban petrol, diesel vehicles, says Nitin Gadkari",
+            "News_URL": "https://economictimes.indiatimes.com/news/politics-and-nation/wont-ban-petrol-diesel-vehicles-says-nitin-gadkari/articleshow/70250904.cms",
+            "Title": "Won\u2019t ban petrol, diesel vehicles, says Nitin Gadkari - The Economic Times"
+        }
+    ],
+    "entertainment": [
+        {
+            "Date": "2019/07/17",
+            "Discription": "TOI Entertainment",
+            "News_URL": "http://timesofindia.indiatimes.com/entertainment",
+            "Title": "Latest Entertainment News, Movies News, Celebrity News, Breaking News | Entertainment - Times of India"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "First romantic number from the film Girlfriend released",
+            "News_URL": "https://timesofindia.indiatimes.com/entertainment/marathi/music/first-romantic-number-from-the-film-girlfriend-released/articleshow/70230546.cms",
+            "Title": "First romantic number from the film Girlfriend released | Marathi Movie News - Times of India"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "Farhan misses Bagwati on 8 years of 'ZNMD'",
+            "News_URL": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/8-years-of-zindagi-na-milegi-dobara-farhan-akhtar-gets-quirky-as-he-misses-bagwati/articleshow/70228753.cms",
+            "Title": "8 years of 'Zindagi Na Milegi Dobara': Farhan Akhtar gets quirky as he misses Bagwati | Hindi Movie News - Times of India"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "Koena Mitra opens up on \u2018O Saki Saki\u2019 remake",
+            "News_URL": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/koena-mitra-on-o-saki-saki-remake-i-feel-such-iconic-songs-should-not-be-touched/articleshow/70227791.cms",
+            "Title": "Exclusive: Koena Mitra on \u2018O Saki Saki\u2019 remake: I feel such iconic songs should not be touched | Hindi Movie News - Times of India"
+        }
+    ],
+    "sports": [
+        {
+            "Date": "2019/07/17",
+            "Discription": "TOI Sports",
+            "News_URL": "http://timesofindia.indiatimes.com/sports",
+            "Title": "Sports News: Latest Cricket News, Live Match Scores & Sports News Headlines, Results & more"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "Big sports events today",
+            "News_URL": "https://timesofindia.indiatimes.com/sports/more-sports/others/big-sports-events-today/articleshow/70250774.cms",
+            "Title": "Big sports events today | More sports News - Times of India"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "Intercontinental Cup: India hold Syria 1-1 in inconsequential match",
+            "News_URL": "https://timesofindia.indiatimes.com/sports/football/top-stories/intercontinental-cup-india-hold-syria-1-1-in-inconsequential-match/articleshow/70250715.cms",
+            "Title": "Intercontinental Cup: India hold Syria 1-1 in inconsequential match | Football News - Times of India"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "After a stellar season, Mandhana wants to add more power to her game",
+            "News_URL": "https://timesofindia.indiatimes.com/sports/cricket/news/after-a-stellar-season-smriti-mandhana-wants-to-add-more-power-to-her-game/articleshow/70249416.cms",
+            "Title": "After a stellar season, Smriti Mandhana wants to add more power to her game | Cricket News - Times of India"
+        }
+    ],
+    "technology": [
+        {
+            "Date": "2019/07/17",
+            "Discription": "Network World",
+            "News_URL": "http://www.networkworld.com/",
+            "Title": "Welcome to Network World.com"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "Network Computing",
+            "News_URL": "http://www.networkcomputing.com",
+            "Title": "IT Infrastructure Advice, Discussion, Community - Network Computing |"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "Interop 2019 Fireside Chat: Revamping IT Infrastructure After a Merger",
+            "News_URL": "https://www.networkcomputing.com/cloud-infrastructure/interop-2019-fireside-chat-revamping-it-infrastructure-after-merger",
+            "Title": "Interop 2019 Fireside Chat: Revamping IT Infrastructure After a Merger | IT Infrastructure Advice, Discussion, Community - Network Computing"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "Want 5G for Your Office and Employees? Become a Sports Fan",
+            "News_URL": "https://www.networkcomputing.com/wireless-infrastructure/want-5g-your-office-and-employees-become-sports-fan",
+            "Title": "Want 5G for Your Office and Employees? Become a Sports Fan | IT Infrastructure Advice, Discussion, Community - Network Computing"
+        }
+    ],
+    "world": [
+        {
+            "Date": "2019/07/17",
+            "Discription": "CNN",
+            "News_URL": "http://www.cnn.com",
+            "Title": "CNN International - Breaking News, US News, World News and Video"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "US House votes to condemn racist Trump comments, including four Republicans",
+            "News_URL": "https://cnn.it/2LWQ9KQ",
+            "Title": "Live updates: Backlash after Trump's racist tweets - CNNPolitics"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "newKellyanne Conway shoots back at reporter: 'What's your ethnicity?'",
+            "News_URL": "https://www.cnn.com/collections/trump-racist-tweet-intl-071419/",
+            "Title": "Error"
+        },
+        {
+            "Date": "2019/07/17",
+            "Discription": "How did Kim Jong Un get his Mercedes-Benzes? New report traces their origin",
+            "News_URL": "https://www.cnn.com/style/article/north-korea-luxury-vehicles-intl-hnk/index.html",
+            "Title": "How did Kim Jong Un get his Mercedes-Benzes? - CNN Style"
+        }
+    ]
+}
